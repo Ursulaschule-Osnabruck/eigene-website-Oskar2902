@@ -7,3 +7,28 @@
 
     
 }
+h6{
+    border: 1px;
+    border-radius: 10px;
+    border-style: ridge;
+    border-color: lightseagreen;
+    text-align: center;
+    color:darkslateblue;
+
+}
+h1{
+    border: 1px;
+    border-radius: 10px;
+    border-style: ridge;
+    border-color: lightseagreen;
+    text-align: center;
+    color:darkslateblue;
+}
+.navbar
+{
+
+color: lightseagreen;
+
+
+
+}
